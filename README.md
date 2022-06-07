@@ -7,7 +7,7 @@
   	<meta name="author" content="Kazuha™">
     <title>Sterka.com</title>
     <link rel="stylesheet" href="./css/style.css">
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" href="favicon.ico">
   </head>
 <body>
 <img src="favicon.ico" width="50" height="50" alt=""> <i><input type="search"></i>
@@ -32,3 +32,4 @@
     </footer>
     <center><p>При поддержке ANIMEEE <br>И<br> MAMA YA PROGRAMIST!<br>Kazuha™</p></center>
 </html>
+ 
